@@ -1,2 +1,2 @@
-## Live Site URK:- 
+## Live Site URL:- 
 https://salmanbankist.netlify.app
